@@ -1,3 +1,5 @@
 whatsupcode
 lastseen
 screentime
+video call
+audio call
